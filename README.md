@@ -30,7 +30,7 @@ Follow these steps to use the Hinglish translation model:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone 
+git clone https://github.com/prajwal-6667/OpeninApp---AI-ML-Assignment-3
 ```
 
 2. Navigate to the project directory:
