@@ -1,6 +1,6 @@
 # OpeninApp---AI-ML-Assignment-3
 AI ML Assignment 3 - Translation Assignment
-Certainly, here's a sample README file for your Hinglish translation model:
+Here's a README file for Hinglish translation model:
 
 ---
 
@@ -45,7 +45,7 @@ cd OpeninApp---AI-ML-Assignment-3
 python translate_to_hinglish.py
 ```
 
-4. Enter the English text you want to translate when prompted.
+4. Enter the English text you want to translate when prompted(Demonstration of the give three sentences including the example is shown in the notebook).
 
 5. The translated Hinglish text will be displayed as the output.
 
