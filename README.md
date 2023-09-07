@@ -30,13 +30,13 @@ Follow these steps to use the Hinglish translation model:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/prajwal-6667/OpeninApp---AI-ML-Assignment-3
+git clone https://github.com/prajwal-6667/OpeninApp---AI-ML-Assignment-3.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd hinglish-translation
+cd OpeninApp---AI-ML-Assignment-3
 ```
 
 3. Run the translation script:
@@ -65,10 +65,3 @@ To evaluate the model's performance, you can:
 
 If you find any issues or have suggestions for improvements, please feel free to open an issue or create a pull request. Contributions are welcome!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-You can customize this README as needed, and be sure to replace `yourusername/hinglish-translation.git` with the actual repository URL if you decide to host the code on a platform like GitHub.
